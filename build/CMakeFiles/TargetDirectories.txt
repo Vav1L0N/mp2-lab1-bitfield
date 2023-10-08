@@ -1,6 +1,0 @@
-D:/proga2sem/mp2-lab1-bitfield/build/CMakeFiles/ALL_BUILD.dir
-D:/proga2sem/mp2-lab1-bitfield/build/CMakeFiles/ZERO_CHECK.dir
-D:/proga2sem/mp2-lab1-bitfield/build/src/CMakeFiles/laba1.dir
-D:/proga2sem/mp2-lab1-bitfield/build/samples/CMakeFiles/sample_prime_numbers.dir
-D:/proga2sem/mp2-lab1-bitfield/build/gtest/CMakeFiles/gtest.dir
-D:/proga2sem/mp2-lab1-bitfield/build/test/CMakeFiles/test_laba1.dir
