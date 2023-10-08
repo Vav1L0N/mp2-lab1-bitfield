@@ -1,0 +1,10 @@
+^D:\PROGA2SEM\MP2-LAB1-BITFIELD\GTEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/proga2sem/mp2-lab1-bitfield -BD:/proga2sem/mp2-lab1-bitfield/build --check-stamp-file D:/proga2sem/mp2-lab1-bitfield/build/gtest/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
